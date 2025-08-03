@@ -7,7 +7,7 @@ body {
 @media (min-width: 1440px) {
   .card {
     max-width: 42%;
-    margin: 2em auto;
+    margin: 10em auto;
     padding: 2em;
     border-radius: 10px;
   }
